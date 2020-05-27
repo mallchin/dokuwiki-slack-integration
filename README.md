@@ -10,6 +10,6 @@ Download the latest [Release](https://github.com/mallchin/dokuwiki-slack-notifie
 
 ## Configure
 
-1. Create an Incoming Webhook on slack
+1. Create an Incoming Webhook on slack: https://api.slack.com/messaging/webhooks#create_a_webhook
 
 2. Enter the webhook into the slacknotifier configuration section in DokuWiki's Configuration Settings
